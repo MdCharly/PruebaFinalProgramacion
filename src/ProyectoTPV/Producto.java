@@ -28,4 +28,8 @@ public class Producto {
 
     }
 
+    public String getnombre () { return nombre;}
+    public int getprecio () {return precio; }
+    public String getfuente () { return fuente;}
+
 }
